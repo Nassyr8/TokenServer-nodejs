@@ -2,7 +2,7 @@
 
 *Other languages: [English](README.md)*
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AgoraIO-Community/TokenServer-nodejs)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nassyr8/TokenServer-nodejs)
 
 1.  点击上面的Deploy链接开始
 2.  填写你的应用名称、app_id 和 app_certificate, 然后点击`Deploy App`
